@@ -7,3 +7,11 @@ Versión 0.0.0
 
 desarrollado en python
 mongodb
+
+pdemos probar los  cambios quelehemos hecho
+
+windows
+
+no hemos afectado todavía
+
+
